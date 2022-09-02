@@ -1,0 +1,3 @@
+- 👋 Hi, I'm @leleyay
+- 👀 I'm interested in drawing, eating good food, and watching TV shows
+- 🌱 I'm currently learning javascript, react native
